@@ -8,7 +8,7 @@
 ![html](https://img.shields.io/badge/html-pink?style=flat&logo=html5&logoColor=purple)
 ![css](https://img.shields.io/badge/css-pink?style=flat&logo=css3&logoColor=purple)
 
-![Yii2](https://img.shields.io/badge/yii2-pink?style=flat&logo=data:image/png;base64&logoColor=purple)
+![Yii2](https://img.shields.io/badge/yii2-pink?style=flat&logo=data:img/yii/png;base64&logoColor=purple)
 ![Angular](https://img.shields.io/badge/angular-pink?style=flat&logo=angular&logoColor=purple)
 ![springboot](https://img.shields.io/badge/springboot-pink?style=flat&logo=springboot&logoColor=purple)
 ![Docker](https://img.shields.io/badge/docker-pink?style=flat&logo=docker&logoColor=purple)
