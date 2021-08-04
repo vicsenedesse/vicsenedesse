@@ -11,6 +11,8 @@
 ![Yii2](https://img.shields.io/badge/yii2-yii-ff78bb?style=flat&logo=data:img/yii/png&labelColor=000000)
 ![Angular](https://img.shields.io/badge/angular-910d97?style=flat&logo=angular&logoColor=f780fd)
 ![springboot](https://img.shields.io/badge/springboot-fd7b00?style=flat&logo=springboot&logoColor=502700)
+![nest](https://img.shields.io/badge/nestjs-bdbdc0?style=flat&logo=nestjs&logoColor=1d2352)
+
 ![Docker](https://img.shields.io/badge/docker-b9b2fc?style=flat&logo=docker&logoColor=130d4d)
 
 
